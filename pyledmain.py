@@ -9,13 +9,15 @@
 
 #Row B ----------xxxxxxxxxx-------------
 #Logic: if a == true print. if a == false don't print. Same for row B.
-import RPi.GPIO as GPIO, time, patterns, ledSetup
+#import RPi.GPIO as GPIO, time, patterns, ledSetup
 
 rowA = [190]
 rowB = [190]
+rowAPrint = [1-120]# = True
+rowAPrint(1) = True
+rowASkip[121-190] = False
+rowBPrint[1-70,131-190] = True
+rowBSkip[71-130] = False
 
-ledAPrint == 
-
-if rowA ==
 
 
