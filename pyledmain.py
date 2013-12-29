@@ -5,9 +5,8 @@
 #190 led pattern
 # - is true, there is an led present
 # x is false, there is no led present
-#Row A --------------------xxxxxxxxxxx
-
-#Row B ----------xxxxxxxxxx-------------
+#Row A ------------xxxxxxx
+#Row B -------xxxxxx------
 #Logic: if a == true print. if a == false don't print. Same for row B.
 #import RPi.GPIO as GPIO, time, patterns, ledSetup
 
