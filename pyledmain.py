@@ -17,6 +17,3 @@ rowAPrint(1) = True
 rowASkip[121-190] = False
 rowBPrint[1-70,131-190] = True
 rowBSkip[71-130] = False
-
-
-
